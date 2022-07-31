@@ -13,7 +13,7 @@
             <span class="font-mono text-2xl font-medium">// love_apples</span>
         </div>
 
-        <a href="index.html" class="transition ease delay-50 hover:border-green-200 hover:text-green-200 border-2 rounded-lg border-gray-200 text-gray-200 py-1 px-7 inline-flex items-center">
+        <a href="index.php" class="transition ease delay-50 hover:border-green-200 hover:text-green-200 border-2 rounded-lg border-gray-200 text-gray-200 py-1 px-7 inline-flex items-center">
             <span class="font-mono text-lg">Главная</span>
         </a>
     </div>
